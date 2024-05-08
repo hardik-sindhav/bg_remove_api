@@ -56,6 +56,22 @@ Example Response (on Success):
 }
 ```
 
+
+## Image Processing Example
+
+<table>
+  <tr>
+    <td><img src="input_image/ai-generated-8095540.jpg" alt="Input Image" width="170" height="150"></td>
+    <td><img src="processed_images/0feca457-5e10-40eb-ab4c-584a054fa478.png" alt="Output Image" width="170" height="150"></td>
+     <td><img src="input_image/elephant-1421167_1920.jpg" alt="Input Image" width="170" height="150"></td>
+    <td><img src="processed_images/7e36b5f1-66c3-4623-b398-ae92e14defb5.png" alt="Output Image" width="170" height="150"></td>
+     <td><img src="input_image/oldtimer-1197800_1920.jpg" alt="Input Image" width="150" height="150"></td>
+    <td><img src="processed_images/296c42fe-26c5-441a-83f4-e144d5ad3eb8.png" alt="Output Image" width="150" height="150"></td>
+  </tr>
+</table>
+
+**Description:** This example demonstrates the image processing algorithm applied to the input image to produce the output image.
+
 Use code with caution.
 content_copy
 Error Handling:
