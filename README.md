@@ -6,6 +6,9 @@ Accepts image files as POST requests to the /remove-bg endpoint.
 Employs Rembg for efficient background removal.
 Saves the processed image to a designated output folder (configurable).
 Returns a JSON response indicating success, error messages, and (optionally) the saved image path.
+
+[View Demo ](https://procutout.com/background-remover)
+
 Requirements:
 
 Python 3.x
